@@ -13,6 +13,11 @@ Beginner to Advanced supplementary C classes starting soon.
 - Low-level memory management
 - Real-world debugging techniques
 
+## Structure
+- `slides/` — class presentations
+- `labs/` — practice and laboratory tasks
+- `demos/` — standalone example programs (GDB, core dumps)
+
 ---
 Led by Jakub Piela (RavenCS1)
 
